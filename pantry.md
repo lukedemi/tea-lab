@@ -14,4 +14,4 @@ What's on hand for blending. Identified from photos, 2026-11-05.
 | Turmeric | ground | Powder clouds the cup; use a paper filter |
 
 Preferences: not a big rooibos fan, so skip rooibos-based blends.
-Shopping list: cardamom.
+Shopping list: green cardamom pods (whole). Check the kitchen for whole cloves and dried basil.
