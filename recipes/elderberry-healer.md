@@ -14,3 +14,4 @@ Brew: 16 oz (475 ml) water. Bring to a boil with the blend and simmer 5 min, the
 
 ## Tasting notes
 - v1:
+- v1 visual vs Rishi photo: my ginger pieces are much bigger (1-2 cm vs Rishi's ~3-5 mm bits), so ginger looks dominant; Rishi's pile reads mostly hibiscus. Hibiscus is light and fluffy, so it fills more space per gram. Try chopping ginger smaller next time.
