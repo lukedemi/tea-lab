@@ -1,0 +1,272 @@
+{
+  "store": "Local grocery bulk herbs",
+  "prices_seen": "2026-11-05",
+  "items": [
+    {
+      "name": "Alfalfa",
+      "botanical": "Medicago sativa",
+      "usd_per_oz": 2.5,
+      "usd_per_gram": 0.0882,
+      "note": ""
+    },
+    {
+      "name": "Assam black tea",
+      "botanical": "Camellia sinensis",
+      "usd_per_oz": 1.81,
+      "usd_per_gram": 0.0638,
+      "note": "Caffeinated true tea"
+    },
+    {
+      "name": "Burdock root",
+      "botanical": "Arctium lappa",
+      "usd_per_oz": 1.81,
+      "usd_per_gram": 0.0638,
+      "note": ""
+    },
+    {
+      "name": "Calendula",
+      "botanical": "Calendula officinalis",
+      "usd_per_oz": 2.69,
+      "usd_per_gram": 0.0949,
+      "note": ""
+    },
+    {
+      "name": "California poppy",
+      "botanical": "Eschscholzia californica",
+      "usd_per_oz": 4.37,
+      "usd_per_gram": 0.1541,
+      "note": "Sedative; not an everyday herb"
+    },
+    {
+      "name": "Chai spices",
+      "botanical": "cinnamon, fennel, ginger, anise, cardamom, cloves, black peppercorns",
+      "usd_per_oz": 1.81,
+      "usd_per_gram": 0.0638,
+      "note": "Pre-mixed; includes cardamom"
+    },
+    {
+      "name": "Chamomile",
+      "botanical": "Matricaria recutita",
+      "usd_per_oz": 3.06,
+      "usd_per_gram": 0.1079,
+      "note": ""
+    },
+    {
+      "name": "Dandelion leaf",
+      "botanical": "Taraxacum officinale",
+      "usd_per_oz": 1.62,
+      "usd_per_gram": 0.0571,
+      "note": "On sale ($29.99/lb)"
+    },
+    {
+      "name": "Dandelion root",
+      "botanical": "Taraxacum officinale",
+      "usd_per_oz": 2.69,
+      "usd_per_gram": 0.0949,
+      "note": ""
+    },
+    {
+      "name": "Echinacea leaf",
+      "botanical": "Echinacea purpurea",
+      "usd_per_oz": 1.81,
+      "usd_per_gram": 0.0638,
+      "note": ""
+    },
+    {
+      "name": "Eleuthero root",
+      "botanical": "Eleutherococcus senticosus",
+      "usd_per_oz": 1.37,
+      "usd_per_gram": 0.0483,
+      "note": ""
+    },
+    {
+      "name": "Elderberries",
+      "botanical": "Sambucus nigra",
+      "usd_per_oz": 2.06,
+      "usd_per_gram": 0.0727,
+      "note": ""
+    },
+    {
+      "name": "Ginger root",
+      "botanical": "Zingiber officinale",
+      "usd_per_oz": 1.87,
+      "usd_per_gram": 0.066,
+      "note": ""
+    },
+    {
+      "name": "Hawthorn berries",
+      "botanical": "Crataegus monogyna",
+      "usd_per_oz": 1.19,
+      "usd_per_gram": 0.042,
+      "note": ""
+    },
+    {
+      "name": "Hibiscus",
+      "botanical": "Hibiscus sabdariffa",
+      "usd_per_oz": 1.44,
+      "usd_per_gram": 0.0508,
+      "note": ""
+    },
+    {
+      "name": "Hops flowers",
+      "botanical": "Humulus lupulus",
+      "usd_per_oz": 4.87,
+      "usd_per_gram": 0.1718,
+      "note": "Bitter, sedative"
+    },
+    {
+      "name": "Lemon balm",
+      "botanical": "Melissa officinalis",
+      "usd_per_oz": 5.31,
+      "usd_per_gram": 0.1873,
+      "note": "Local"
+    },
+    {
+      "name": "Licorice root",
+      "botanical": "Glycyrrhiza glabra",
+      "usd_per_oz": 1.62,
+      "usd_per_gram": 0.0571,
+      "note": ""
+    },
+    {
+      "name": "Marshmallow root",
+      "botanical": "Althaea officinalis",
+      "usd_per_oz": 2.37,
+      "usd_per_gram": 0.0836,
+      "note": "Price partly hidden; best reading"
+    },
+    {
+      "name": "Meadowsweet",
+      "botanical": "Filipendula ulmaria",
+      "usd_per_oz": 2.31,
+      "usd_per_gram": 0.0815,
+      "note": ""
+    },
+    {
+      "name": "Mugwort",
+      "botanical": "Artemisia vulgaris",
+      "usd_per_oz": 2.19,
+      "usd_per_gram": 0.0773,
+      "note": "Avoid in pregnancy"
+    },
+    {
+      "name": "Mullein leaf",
+      "botanical": "Verbascum thapsus",
+      "usd_per_oz": 2.06,
+      "usd_per_gram": 0.0727,
+      "note": "Fine hairs; filter well"
+    },
+    {
+      "name": "Nettle leaf",
+      "botanical": "Urtica dioica",
+      "usd_per_oz": 4.37,
+      "usd_per_gram": 0.1541,
+      "note": "Local"
+    },
+    {
+      "name": "Oat tops",
+      "botanical": "Avena sativa",
+      "usd_per_oz": 5.0,
+      "usd_per_gram": 0.1764,
+      "note": ""
+    },
+    {
+      "name": "Peppermint leaf",
+      "botanical": "Mentha piperita",
+      "usd_per_oz": 1.5,
+      "usd_per_gram": 0.0529,
+      "note": ""
+    },
+    {
+      "name": "Raspberry leaf",
+      "botanical": "Rubus idaeus",
+      "usd_per_oz": 1.69,
+      "usd_per_gram": 0.0596,
+      "note": ""
+    },
+    {
+      "name": "Red clover blossoms",
+      "botanical": "Trifolium pratense",
+      "usd_per_oz": 4.56,
+      "usd_per_gram": 0.1608,
+      "note": ""
+    },
+    {
+      "name": "Rooibos",
+      "botanical": "Aspalathus linearis",
+      "usd_per_oz": 1.81,
+      "usd_per_gram": 0.0638,
+      "note": ""
+    },
+    {
+      "name": "Rosehips",
+      "botanical": "Rosa canina",
+      "usd_per_oz": 1.5,
+      "usd_per_gram": 0.0529,
+      "note": ""
+    },
+    {
+      "name": "Rose petals",
+      "botanical": "Rosa centifolia",
+      "usd_per_oz": 5.44,
+      "usd_per_gram": 0.1919,
+      "note": ""
+    },
+    {
+      "name": "Skullcap",
+      "botanical": "Scutellaria lateriflora",
+      "usd_per_oz": 3.31,
+      "usd_per_gram": 0.1168,
+      "note": "Sedative"
+    },
+    {
+      "name": "Spearmint",
+      "botanical": "Mentha spicata",
+      "usd_per_oz": 1.87,
+      "usd_per_gram": 0.066,
+      "note": ""
+    },
+    {
+      "name": "St. John's wort",
+      "botanical": "Hypericum perforatum",
+      "usd_per_oz": 1.69,
+      "usd_per_gram": 0.0596,
+      "note": "Interacts with many medications"
+    },
+    {
+      "name": "Tulsi (holy basil)",
+      "botanical": "Ocimum sanctum",
+      "usd_per_oz": 4.37,
+      "usd_per_gram": 0.1541,
+      "note": "Local"
+    },
+    {
+      "name": "Valerian root",
+      "botanical": "Valeriana officinalis",
+      "usd_per_oz": 3.12,
+      "usd_per_gram": 0.1101,
+      "note": "Sedative; strong smell"
+    },
+    {
+      "name": "Wood betony",
+      "botanical": "Stachys officinalis",
+      "usd_per_oz": 2.0,
+      "usd_per_gram": 0.0705,
+      "note": "On sale, $31.99/lb (per-oz price crossed out)"
+    },
+    {
+      "name": "Yarrow",
+      "botanical": "Achillea millefolium",
+      "usd_per_oz": 4.37,
+      "usd_per_gram": 0.1541,
+      "note": "Local"
+    },
+    {
+      "name": "Yerba mate green leaf",
+      "botanical": "Ilex paraguariensis",
+      "usd_per_oz": 2.19,
+      "usd_per_gram": 0.0773,
+      "note": "Caffeinated"
+    }
+  ]
+}

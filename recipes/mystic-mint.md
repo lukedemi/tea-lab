@@ -33,3 +33,7 @@ Brew: 12-16 oz (350-475 ml) water just off the boil. Cover and steep 6-8 min, th
 
 ## Tasting notes
 - v1:
+
+## Cost per cup (store bulk prices, 2026-11-05)
+Pantry version: peppermint $0.16 + licorice $0.04 + cinnamon (not sold in bulk there; roughly $0.01-0.03) = **about $0.21 per 4 g cup**.
+Rishi's Mystic Mint: about $0.50-0.71 for the same 4 g.
