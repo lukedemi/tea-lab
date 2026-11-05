@@ -1,0 +1,604 @@
+[
+  {
+    "name": "Artemisia Qi Tonic",
+    "handle": "artemisia-qi-tonic",
+    "url": "https://www.rishi-tea.com/products/artemisia-qi-tonic",
+    "image": "images/artemisia-qi-tonic.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/BulkTea_ArtemisiaLemonQiTonic1.jpg?v=1762454832",
+    "ingredients_text": "Organic lemon, organic green tea, organic green shiso, organic Artemisia annua",
+    "ingredients": [
+      "Organic lemon",
+      "organic green tea",
+      "organic green shiso",
+      "organic Artemisia annua"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": true,
+    "caffeinated": true
+  },
+  {
+    "name": "Bergamot Rose",
+    "handle": "organic-bergamot-rose-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-bergamot-rose-herbal-tea",
+    "image": "images/organic-bergamot-rose-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-TeaCircle-Bergamot-Rose.jpg?v=1762452102",
+    "ingredients_text": "Organic rooibos, organic hibiscus, organic maqui berries, organic schisandra berries, organic murta berries, organic rose petals, essential oil of bergamot, organic lavender, organic tulsi",
+    "ingredients": [
+      "Organic rooibos",
+      "organic hibiscus",
+      "organic maqui berries",
+      "organic schisandra berries",
+      "organic murta berries",
+      "organic rose petals",
+      "essential oil of bergamot",
+      "organic lavender",
+      "organic tulsi"
+    ],
+    "allergen_note": "Precaution: Hibiscus flowers may be intercropped in fields that also grow peanuts. May contain peanut or peanut shell fragments. Caution for individuals with severe peanut allergies.",
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Blueberry Rooibos",
+    "handle": "organic-blueberry-rooibos-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-blueberry-rooibos-herbal-tea",
+    "image": "images/organic-blueberry-rooibos-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-BlueberryRooibos-TC.jpg?v=1762452102",
+    "ingredients_text": "Organic rooibos, organic elderberries, organic hibiscus flowers, organic currants, organic blueberries, natural blueberry flavor, organic schisandra berries, natural strawberry flavor",
+    "ingredients": [
+      "Organic rooibos",
+      "organic elderberries",
+      "organic hibiscus flowers",
+      "organic currants",
+      "organic blueberries",
+      "natural blueberry flavor",
+      "organic schisandra berries",
+      "natural strawberry flavor"
+    ],
+    "allergen_note": "Precaution: Hibiscus flowers may be intercropped in fields that also grow peanuts. May contain peanut or peanut shell fragments. Caution for individuals with severe peanut allergies.",
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Butterfly Pea Flower",
+    "handle": "butterfly-pea-flower-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/butterfly-pea-flower-herbal-tea",
+    "image": "images/butterfly-pea-flower-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-ButterflyPeaFlower-TC.jpg?v=1762452061",
+    "ingredients_text": "Butterfly Pea Flower",
+    "ingredients": [
+      "Butterfly Pea Flower"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Chamomile Medley",
+    "handle": "organic-chamomile-medley-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-chamomile-medley-herbal-tea",
+    "image": "images/organic-chamomile-medley-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-ChamomileMedley-TC.jpg?v=1762452110",
+    "ingredients_text": "Organic chamomile flowers, organic lemongrass, organic lemon verbena, organic spearmint",
+    "ingredients": [
+      "Organic chamomile flowers",
+      "organic lemongrass",
+      "organic lemon verbena",
+      "organic spearmint"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Cinnamon Plum",
+    "handle": "organic-cinnamon-plum-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-cinnamon-plum-herbal-tea",
+    "image": "images/organic-cinnamon-plum-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-CinnamonPlum-TC.jpg?v=1762452112",
+    "ingredients_text": "Organic cinnamon, organic hibiscus flowers, organic currants, organic licorice root, organic plum flavor",
+    "ingredients": [
+      "Organic cinnamon",
+      "organic hibiscus flowers",
+      "organic currants",
+      "organic licorice root",
+      "organic plum flavor"
+    ],
+    "allergen_note": "Precaution: Hibiscus flowers may be intercropped in fields that also grow peanuts. May contain peanut or peanut shell fragments. Caution for individuals with severe peanut allergies.",
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Cinnamon Tulsi Spice",
+    "handle": "organic-cinnamon-tulsi-spice-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-cinnamon-tulsi-spice-herbal-tea",
+    "image": "images/organic-cinnamon-tulsi-spice-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-TeaCircle-CinnamonTulsiSpice.jpg?v=1762452114",
+    "ingredients_text": "Organic tulsi, organic ginger root, organic cinnamon, organic licorice root, organic orange peel, organic cardamom, essential oils of ginger and cassia",
+    "ingredients": [
+      "Organic tulsi",
+      "organic ginger root",
+      "organic cinnamon",
+      "organic licorice root",
+      "organic orange peel",
+      "organic cardamom",
+      "essential oils of ginger and cassia"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Cranberry Yuzu",
+    "handle": "organic-cranberry-yuzu-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-cranberry-yuzu-herbal-tea",
+    "image": "images/organic-cranberry-yuzu-herbal-tea.png",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi_TeaCircle_Cranberry_Yuzu_OCRY-QP_2025.png?v=1758240568",
+    "ingredients_text": "Organic hibiscus flowers, organic cranberries, organic cinnamon, organic yuzu peel, organic lemon verbena, organic schisandra berries, organic rosemary, essential oil of tangerine, organic essential oil of lemon",
+    "ingredients": [
+      "Organic hibiscus flowers",
+      "organic cranberries",
+      "organic cinnamon",
+      "organic yuzu peel",
+      "organic lemon verbena",
+      "organic schisandra berries",
+      "organic rosemary",
+      "essential oil of tangerine",
+      "organic essential oil of lemon"
+    ],
+    "allergen_note": "Precaution: Hibiscus flowers may be intercropped in fields that also grow peanuts. May contain peanut or peanut shell fragments. Caution for individuals with severe peanut allergies.",
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Elderberry Healer",
+    "handle": "organic-elderberry-healer-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-elderberry-healer-herbal-tea",
+    "image": "images/organic-elderberry-healer-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-ElderberryHealer-TC.jpg?v=1762452124",
+    "ingredients_text": "Organic ginger root, organic elderberries, organic hibiscus flowers, organic licorice root",
+    "ingredients": [
+      "Organic ginger root",
+      "organic elderberries",
+      "organic hibiscus flowers",
+      "organic licorice root"
+    ],
+    "allergen_note": "Precaution: Hibiscus flowers may be intercropped in fields that also grow peanuts. May contain peanut or peanut shell fragments. Caution for individuals with severe peanut allergies.",
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Ginger",
+    "handle": "organic-ginger-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-ginger-herbal-tea",
+    "image": "images/organic-ginger-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-Ginger-TC.jpg?v=1762452128",
+    "ingredients_text": "Organic ginger root",
+    "ingredients": [
+      "Organic ginger root"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Ginger Lime Rooibos",
+    "handle": "organic-ginger-lime-rooibos-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-ginger-lime-rooibos-herbal-tea",
+    "image": "images/organic-ginger-lime-rooibos-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-GingerLimeRooibos-TC.jpg?v=1762452130",
+    "ingredients_text": "Organic green rooibos, organic ginger, organic lemongrass, organic lemon myrtle, organic licorice root, essential lime and tangerine oils",
+    "ingredients": [
+      "Organic green rooibos",
+      "organic ginger",
+      "organic lemongrass",
+      "organic lemon myrtle",
+      "organic licorice root",
+      "essential lime and tangerine oils"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Ginseng Detox",
+    "handle": "organic-ginseng-detox-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-ginseng-detox-herbal-tea",
+    "image": "images/organic-ginseng-detox-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-GinsengDetox-TC.jpg?v=1762452204",
+    "ingredients_text": "Organic schisandra berries, organic dandelion root, organic burdock root, organic ginseng, organic rosehips, organic peppermint, organic licorice root, organic raspberries",
+    "ingredients": [
+      "Organic schisandra berries",
+      "organic dandelion root",
+      "organic burdock root",
+      "organic ginseng",
+      "organic rosehips",
+      "organic peppermint",
+      "organic licorice root",
+      "organic raspberries"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Golden Chamomile Blossoms",
+    "handle": "organic-golden-chamomile-blossoms-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-golden-chamomile-blossoms-herbal-tea",
+    "image": "images/organic-golden-chamomile-blossoms-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-GoldenChamomileBlossoms-TC.jpg?v=1762452104",
+    "ingredients_text": "Organic chamomile flowers",
+    "ingredients": [
+      "Organic chamomile flowers"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Greek Mountain Tea",
+    "handle": "organic-greek-mountain-tea-blend",
+    "url": "https://www.rishi-tea.com/products/organic-greek-mountain-tea-blend",
+    "image": "images/organic-greek-mountain-tea-blend.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-TeaCircle-GreekMountainTea.jpg?v=1762452132",
+    "ingredients_text": "Organic ginger root, organic mountain tea (ironwort), organic licorice root, organic chamomile blossoms, organic oregano",
+    "ingredients": [
+      "Organic ginger root",
+      "organic mountain tea (ironwort)",
+      "organic licorice root",
+      "organic chamomile blossoms",
+      "organic oregano"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Greek Mountain Tea Malotiras",
+    "handle": "greek-mountain-tea-malotiras",
+    "url": "https://www.rishi-tea.com/products/greek-mountain-tea-malotiras",
+    "image": "images/greek-mountain-tea-malotiras.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi_GreekMountainTea_Malotiras_2000x2000_22128b21-fc7f-4410-a74a-ad6f119580c6.jpg?v=1762453608",
+    "ingredients_text": "Sideritis Syriaca",
+    "ingredients": [
+      "Sideritis Syriaca"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Green Tea Mint",
+    "handle": "organic-green-tea-mint-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-green-tea-mint-herbal-tea",
+    "image": "images/organic-green-tea-mint-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-GreenTeaMint-TC.jpg?v=1762452133",
+    "ingredients_text": "Organic green tea, organic peppermint",
+    "ingredients": [
+      "Organic green tea",
+      "organic peppermint"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": true,
+    "caffeinated": true
+  },
+  {
+    "name": "Hibiscus",
+    "handle": "organic-hibiscus-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-hibiscus-herbal-tea",
+    "image": "images/organic-hibiscus-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-Hibiscus-TC.jpg?v=1762452134",
+    "ingredients_text": "Organic hibiscus flowers",
+    "ingredients": [
+      "Organic hibiscus flowers"
+    ],
+    "allergen_note": "Precaution: Hibiscus flowers may be intercropped in fields that also grow peanuts. May contain peanut or peanut shell fragments. Caution for individuals with severe peanut allergies.",
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Hibiscus Berry",
+    "handle": "organic-hibiscus-berry-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-hibiscus-berry-herbal-tea",
+    "image": "images/organic-hibiscus-berry-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-HibiscusBerry-TC.jpg?v=1762452136",
+    "ingredients_text": "Organic rosehips, organic hibiscus flowers, organic currants, organic apples, organic elderberries, natural blueberry flavor, essential orange oil, natural mango flavor",
+    "ingredients": [
+      "Organic rosehips",
+      "organic hibiscus flowers",
+      "organic currants",
+      "organic apples",
+      "organic elderberries",
+      "natural blueberry flavor",
+      "essential orange oil",
+      "natural mango flavor"
+    ],
+    "allergen_note": "Precaution: Hibiscus flowers may be intercropped in fields that also grow peanuts. May contain peanut or peanut shell fragments. Caution for individuals with severe peanut allergies.",
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Lavender Mint",
+    "handle": "organic-lavender-mint-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-lavender-mint-herbal-tea",
+    "image": "images/organic-lavender-mint-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-LavenderMint-TC.jpg?v=1762452146",
+    "ingredients_text": "Organic peppermint, organic sage, organic licorice, organic lavender, natural lavender extract",
+    "ingredients": [
+      "Organic peppermint",
+      "organic sage",
+      "organic licorice",
+      "organic lavender",
+      "natural lavender extract"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Mushroom Hero",
+    "handle": "organic-mushroom-hero-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-mushroom-hero-herbal-tea",
+    "image": "images/organic-mushroom-hero-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-MushroomHero-TC.jpg?v=1762452156",
+    "ingredients_text": "Organic chicory root, organic roasted dandelion root, organic reishi mushrooms, organic chaga mushrooms, organic cocoa nibs, organic licorice root, organic astragalus root",
+    "ingredients": [
+      "Organic chicory root",
+      "organic roasted dandelion root",
+      "organic reishi mushrooms",
+      "organic chaga mushrooms",
+      "organic cocoa nibs",
+      "organic licorice root",
+      "organic astragalus root"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Mystic Mint",
+    "handle": "organic-mystic-mint-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-mystic-mint-herbal-tea",
+    "image": "images/organic-mystic-mint-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-MysticMint-TC.jpg?v=1762452163",
+    "ingredients_text": "Organic peppermint, organic cardamom, organic licorice root, essential basil and clove leaf oils",
+    "ingredients": [
+      "Organic peppermint",
+      "organic cardamom",
+      "organic licorice root",
+      "essential basil and clove leaf oils"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Peach Blossom",
+    "handle": "organic-peach-blossom-white-tea",
+    "url": "https://www.rishi-tea.com/products/organic-peach-blossom-white-tea",
+    "image": "images/organic-peach-blossom-white-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-PeachBlossom-TC_550b9c46-85d5-43c4-9393-951d9d883712.jpg?v=1762452169",
+    "ingredients_text": "Organic white tea, organic peaches, natural peach flavor, organic essential orange oil, essential tangerine oil",
+    "ingredients": [
+      "Organic white tea",
+      "organic peaches",
+      "natural peach flavor",
+      "organic essential orange oil",
+      "essential tangerine oil"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": true,
+    "caffeinated": true
+  },
+  {
+    "name": "Peppermint",
+    "handle": "organic-peppermint-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-peppermint-herbal-tea",
+    "image": "images/organic-peppermint-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-Peppermint-TC.jpg?v=1762452173",
+    "ingredients_text": "Organic peppermint",
+    "ingredients": [
+      "Organic peppermint"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Peppermint Rooibos",
+    "handle": "organic-peppermint-rooibos-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-peppermint-rooibos-herbal-tea",
+    "image": "images/organic-peppermint-rooibos-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-PeppermintRooibos-TC.jpg?v=1762452176",
+    "ingredients_text": "Organic rooibos, organic peppermint, essential bergamot oil",
+    "ingredients": [
+      "Organic rooibos",
+      "organic peppermint",
+      "essential bergamot oil"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Rooibos",
+    "handle": "organic-rooibos-tea",
+    "url": "https://www.rishi-tea.com/products/organic-rooibos-tea",
+    "image": "images/organic-rooibos-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-Rooibos-TC.jpg?v=1762452183",
+    "ingredients_text": "Organic rooibos",
+    "ingredients": [
+      "Organic rooibos"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Scarlet",
+    "handle": "organic-scarlet-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-scarlet-herbal-tea",
+    "image": "images/organic-scarlet-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-Scarlet-TC.jpg?v=1762452184",
+    "ingredients_text": "Organic currants, organic hibiscus flowers, organic rosehips, organic rooibos, organic blueberries, organic orange peel, organic cranberries, natural blueberry, organic passionfruit flavors, mango flavors",
+    "ingredients": [
+      "Organic currants",
+      "organic hibiscus flowers",
+      "organic rosehips",
+      "organic rooibos",
+      "organic blueberries",
+      "organic orange peel",
+      "organic cranberries",
+      "natural blueberry",
+      "organic passionfruit flavors",
+      "mango flavors"
+    ],
+    "allergen_note": "Precaution: Hibiscus flowers may be intercropped in fields that also grow peanuts. May contain peanut or peanut shell fragments. Caution for individuals with severe peanut allergies.",
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Tangerine Ginger",
+    "handle": "organic-tangerine-ginger-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-tangerine-ginger-herbal-tea",
+    "image": "images/organic-tangerine-ginger-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-TangerineGinger-TC.jpg?v=1762452197",
+    "ingredients_text": "Organic hibiscus flowers, organic ginger root, organic rosehips, organic licorice root, organic orange peel, organic schisandra berries, essential tangerine and orange oils",
+    "ingredients": [
+      "Organic hibiscus flowers",
+      "organic ginger root",
+      "organic rosehips",
+      "organic licorice root",
+      "organic orange peel",
+      "organic schisandra berries",
+      "essential tangerine and orange oils"
+    ],
+    "allergen_note": "Caution: may contain peanut or peanut shell fragments. Precaution: Hibiscus flowers may be intercropped in fields that also grow peanuts. May contain peanut or peanut shell fragments. Caution for individuals with severe peanut allergies.",
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Turmeric Chai",
+    "handle": "organic-turmeric-chai-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-turmeric-chai-herbal-tea",
+    "image": "images/organic-turmeric-chai-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-TurmericChai-TC.jpg?v=1762452199",
+    "ingredients_text": "Organic coconut, organic turmeric, organic ginger root, organic cardamom, organic cinnamon, organic sarsaparilla root, organic vanilla bean, organic black pepper, natural lychee flavor, natural rose extract",
+    "ingredients": [
+      "Organic coconut",
+      "organic turmeric",
+      "organic ginger root",
+      "organic cardamom",
+      "organic cinnamon",
+      "organic sarsaparilla root",
+      "organic vanilla bean",
+      "organic black pepper",
+      "natural lychee flavor",
+      "natural rose extract"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Turmeric Ginger",
+    "handle": "organic-turmeric-ginger-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-turmeric-ginger-herbal-tea",
+    "image": "images/organic-turmeric-ginger-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-TurmericGinger-TC.jpg?v=1762452200",
+    "ingredients_text": "Organic ginger root, organic turmeric root, organic licorice root, organic lemongrass, organic orange peel, organic lemon peel, essential orange and lemon oils",
+    "ingredients": [
+      "Organic ginger root",
+      "organic turmeric root",
+      "organic licorice root",
+      "organic lemongrass",
+      "organic orange peel",
+      "organic lemon peel",
+      "essential orange and lemon oils"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Turmeric Mango",
+    "handle": "organic-turmeric-mango-tea",
+    "url": "https://www.rishi-tea.com/products/organic-turmeric-mango-tea",
+    "image": "images/organic-turmeric-mango-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-TurmericMango-TC.jpg?v=1762452197",
+    "ingredients_text": "Organic mango, organic turmeric root, organic pineapple, organic ginger root, organic green tea with jasmine, organic yuzu peel, natural mango flavor, essential makrut lime oil",
+    "ingredients": [
+      "Organic mango",
+      "organic turmeric root",
+      "organic pineapple",
+      "organic ginger root",
+      "organic green tea with jasmine",
+      "organic yuzu peel",
+      "natural mango flavor",
+      "essential makrut lime oil"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": true,
+    "caffeinated": true
+  },
+  {
+    "name": "Valerian Dream",
+    "handle": "organic-valerian-dream-herbal-tea",
+    "url": "https://www.rishi-tea.com/products/organic-valerian-dream-herbal-tea",
+    "image": "images/organic-valerian-dream-herbal-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-ValerianDream-TC.jpg?v=1762452186",
+    "ingredients_text": "Organic valerian root, organic cardamom, organic fennel seed, organic licorice root, organic strawberries, organic spearmint, natural rose extract, organic rose petals, essential orange oil",
+    "ingredients": [
+      "Organic valerian root",
+      "organic cardamom",
+      "organic fennel seed",
+      "organic licorice root",
+      "organic strawberries",
+      "organic spearmint",
+      "natural rose extract",
+      "organic rose petals",
+      "essential orange oil"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "West Cape Chai",
+    "handle": "organic-west-cape-chai-caffeine-free-tea",
+    "url": "https://www.rishi-tea.com/products/organic-west-cape-chai-caffeine-free-tea",
+    "image": "images/organic-west-cape-chai-caffeine-free-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-WestCapeChai-TC.jpg?v=1762452205",
+    "ingredients_text": "Organic rooibos, organic cinnamon, organic ginger root, organic cardamom, organic chicory root, organic star anise, organic licorice root, organic fennel seed, organic black pepper, organic cloves, organic peppermint",
+    "ingredients": [
+      "Organic rooibos",
+      "organic cinnamon",
+      "organic ginger root",
+      "organic cardamom",
+      "organic chicory root",
+      "organic star anise",
+      "organic licorice root",
+      "organic fennel seed",
+      "organic black pepper",
+      "organic cloves",
+      "organic peppermint"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": false
+  },
+  {
+    "name": "Yerba Mate",
+    "handle": "organic-yerba-mate-tea",
+    "url": "https://www.rishi-tea.com/products/organic-yerba-mate-tea",
+    "image": "images/organic-yerba-mate-tea.jpg",
+    "image_source": "https://cdn.shopify.com/s/files/1/0645/3788/6970/files/Rishi-PDP-Carousel-YerbaMate-TC.jpg?v=1762452210",
+    "ingredients_text": "Organic yerba mate",
+    "ingredients": [
+      "Organic yerba mate"
+    ],
+    "allergen_note": null,
+    "contains_true_tea": false,
+    "caffeinated": true
+  }
+]
