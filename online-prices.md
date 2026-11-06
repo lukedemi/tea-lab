@@ -40,3 +40,8 @@ Store prices read from shelf photos (2026-11-05). Mountain Rose Herbs (MRH) orga
 | [Hawthorn berries](https://mountainroseherbs.com/hawthorn-berries) | $1.19 | $19 | $10.50 ($2.62) | $22.50 | 0.85× |
 | [Eleuthero root](https://mountainroseherbs.com/eleuthero-root) | $1.37 | $22 | $12.50 ($3.12) | $29.00 | 0.76× |
 | [Mullein leaf](https://mountainroseherbs.com/mullein-leaf) | $2.06 | $33 | $10.75 ($2.69) | n/a | n/a |
+
+## Other finds
+| Item | Price | $/oz | vs. store | Seen |
+|---|---|---|---|---|
+| Frontier Co-op organic peppermint leaf, cut & sifted, 1 lb (Amazon, Prime) | $12.36 | $0.77 | about half the store's $1.50/oz | 2026-11-06 |
