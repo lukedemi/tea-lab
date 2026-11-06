@@ -10,7 +10,7 @@ Based on Rishi's ingredient order: ginger > elderberries > hibiscus > licorice.
 | Licorice root | 0.52 | 5.2 |
 | **Total** | **10.00** | |
 
-Brew: 16 oz (475 ml) water. Bring to a boil with the blend and simmer 5 min, then steep 5 min off the heat. Strain.
+Brew (house method, see [BREWING.md](../BREWING.md)): 208°F, 16 oz, Finum basket with lid on. Steep 10 min. Chop the ginger small so it extracts without a simmer.
 
 ## Tasting notes
 - v1:
