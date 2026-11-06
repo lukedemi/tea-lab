@@ -10,7 +10,17 @@ Based on Rishi's ingredient order: ginger > elderberries > hibiscus > licorice.
 | Licorice root | 0.52 | 5.2 |
 | **Total** | **10.00** | |
 
-Brew (house method, see [BREWING.md](../BREWING.md)): 208°F, 16 oz, Finum basket with lid on. Steep 10 min. Chop the ginger small so it extracts without a simmer.
+## 11 oz mug version (scaled from v1)
+
+| Ingredient | Grams |
+|---|---|
+| Ginger root, chopped small | 2.90 |
+| Elderberries | 2.17 |
+| Hibiscus flowers | 1.45 |
+| Licorice root | 0.36 |
+| **Total** | **6.88** |
+
+Brew (house method, see [BREWING.md](../BREWING.md)): 208°F, 11 oz (the 10 g version is for 16 oz), Finum basket with lid on. Steep 10 min. Chop the ginger small so it extracts without a simmer.
 
 ## Tasting notes
 - v1:

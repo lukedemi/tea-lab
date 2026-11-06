@@ -11,7 +11,7 @@ Original blend for a light, bright pre-lunch cup. Tart and gingery, lightly swee
 | Licorice root | 0.15 | 3.75 |
 | **Total** | **4.00** | |
 
-Brew (house method, see [BREWING.md](../BREWING.md)): 208°F, 10-12 oz mug, Finum basket with lid on. Steep 6-8 min.
+Brew (house method, see [BREWING.md](../BREWING.md)): 208°F, 11 oz mug, Finum basket with lid on. Steep 6-8 min.
 
 Cost: about $0.24 per cup (store prices; cinnamon estimated from Mountain Rose Ceylon sticks).
 

@@ -5,7 +5,7 @@ Every cup, unless a recipe says otherwise:
 - **Water:** 208°F
 - **Mug:** pre-warmed (fill with hot water, dump before brewing)
 - **Infuser:** Finum reusable stainless steel mesh brewing basket, lid on while steeping
-- **Volume:** about 10-12 oz for a normal mug (16 oz for Elderberry Healer)
+- **Volume:** 11 oz (325 ml), the usual mug
 
 ## Steep times at 208°F
 | Blend type | Time |
