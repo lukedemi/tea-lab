@@ -20,9 +20,17 @@ Spearmint-forward daily cup. No licorice: sweetened with Splenda in the mug.
 
 Brew (house method, see [BREWING.md](../BREWING.md)): 208°F, 11 oz mug, Finum basket with lid on. Steep 7 min. Sweeten with Splenda after.
 
-## Batch (A, 200 g, about 50 cups)
-Spearmint 160 g, ginger 30 g (chopped small), cinnamon 10 g (broken small). Shake the jar before scooping 4 g: small pieces settle.
+## Batch, v2 (A with more cinnamon): mixed 2026-11-13
+| Ingredient | Grams | % |
+|---|---|---|
+| Spearmint | 80 | 78.4 |
+| Ginger root, chopped small | 15 | 14.7 |
+| Cinnamon, broken small | 7 | 6.9 |
+| **Total** | **102** | about 25 cups at 4 g |
+
+Shake the jar before scooping 4 g: small pieces settle.
 
 ## Tasting notes
 - A v1:
 - B v1:
+- Batch v2 (more cinnamon):
