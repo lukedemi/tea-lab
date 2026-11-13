@@ -46,3 +46,6 @@ Store prices read from shelf photos (2026-11-05). Mountain Rose Herbs (MRH) orga
 |---|---|---|---|---|
 | Frontier Co-op organic peppermint leaf, cut & sifted, 1 lb (Amazon, Prime) | $12.36 | $0.77 | about half the store's $1.50/oz | 2026-11-06 |
 | Spearmint, big bag | $13.99/lb | $0.87 | less than half the store's $1.87/oz (Mountain Rose: $31/lb) | 2026-11-13 |
+| Frontier Co-op organic ginger root, cut & sifted, 16 oz (Vitacost) | $21.08 | $1.32 | cheaper than the store's $1.87/oz | 2026-11-13 |
+
+Not for tea: "Organic Ginger Dices" (NOW Foods, Amazon B0038N76X0) are crystallized with cane sugar.
