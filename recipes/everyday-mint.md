@@ -33,4 +33,4 @@ Shake the jar before scooping 4 g: small pieces settle.
 ## Tasting notes
 - A v1:
 - B v1:
-- Batch v2 (more cinnamon):
+- Batch v2 (more cinnamon): pretty solid and cheap. House everyday tea.
