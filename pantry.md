@@ -11,7 +11,7 @@ What's on hand for blending. Identified from photos, 2026-11-05.
 | Rosehips | dried shells, cut | Some inner hairs present; strain through a fine filter |
 | Elderberries | dried whole berries | Brew with boiling water (don't eat raw) |
 | Peppermint | dried, cut leaf | Out as of 2026-11-06 |
-| Spearmint | dried, cut leaf | Big bag (2026-11-13); store sealed in the dark, keep a jar out |
+| Spearmint | dried, cut leaf | Big bag (2026-11-13), $13.99/lb; store sealed in the dark, keep a jar out |
 | Turmeric | ground | Powder clouds the cup; use a paper filter |
 
 Preferences: not a big rooibos fan, so skip rooibos-based blends. Sweetens the everyday tea with Splenda, so no licorice needed there.

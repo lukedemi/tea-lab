@@ -30,6 +30,8 @@ Brew (house method, see [BREWING.md](../BREWING.md)): 208°F, 11 oz mug, Finum b
 
 Shake the jar before scooping 4 g: small pieces settle.
 
+Cost: spearmint $2.47 (at $13.99/lb) + ginger $0.99 + cinnamon $0.73 (estimated) = about $4.19 per batch, **about $0.16 per cup**.
+
 ## Tasting notes
 - A v1:
 - B v1:
