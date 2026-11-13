@@ -58,5 +58,8 @@ Not for tea: "Organic Ginger Dices" (NOW Foods, Amazon B0038N76X0) are crystalli
 | Yogi's Gift Dried Ginger Root C/S 1 lb | $19.99 | $1.25 | no | overnight |
 | Halo Naturals Organic Ginger Root C/S 1 lb | $21.99 | $1.37 | yes | next day |
 | Starwest Botanicals Organic Ginger Root C/S 1 lb | $24.16 | $1.51 | yes | next day |
+| Organic Way Organic Ginger Root C/S 2 lb | $34.99 | $1.09 | yes | overnight |
+| Best Botanicals Organic Ginger Root Cut 1 lb | $24.00 | $1.50 | yes | Nov 17-21 |
+| Herb Co Organic Ginger Root C/S 1 lb | $27.38 | $1.71 | yes | 2-day |
 
 Store bulk jar for comparison: $1.87/oz ($29.92/lb).
