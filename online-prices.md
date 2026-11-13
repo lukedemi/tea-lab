@@ -49,3 +49,14 @@ Store prices read from shelf photos (2026-11-05). Mountain Rose Herbs (MRH) orga
 | Frontier Co-op organic ginger root, cut & sifted, 16 oz (Vitacost) | $21.08 | $1.32 | cheaper than the store's $1.87/oz | 2026-11-13 |
 
 Not for tea: "Organic Ginger Dices" (NOW Foods, Amazon B0038N76X0) are crystallized with cane sugar.
+
+## Ginger root, cut & sifted, on Amazon (2026-11-13)
+| Item | Price | $/oz | Organic | Delivery seen |
+|---|---|---|---|---|
+| Frontier Co-op Ginger Root 1 lb, chopped & sifted (B000WR8IBO) | $13.10 | $0.82 | not stated in title | Nov 25-29 |
+| Spicy World Ginger Root Cut & Sifted 1 lb jar | $14.99 | $0.94 | no | 2-day |
+| Yogi's Gift Dried Ginger Root C/S 1 lb | $19.99 | $1.25 | no | overnight |
+| Halo Naturals Organic Ginger Root C/S 1 lb | $21.99 | $1.37 | yes | next day |
+| Starwest Botanicals Organic Ginger Root C/S 1 lb | $24.16 | $1.51 | yes | next day |
+
+Store bulk jar for comparison: $1.87/oz ($29.92/lb).
